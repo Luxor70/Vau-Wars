@@ -1,4 +1,4 @@
-# Vau-Wars
+# Vau-Wars mod for Emperor of the Fading Suns 1.52
 
 Year 5125 A.D., the Vau, tired and worried by the ever-growing Empire presence at their border, attacked the humanity. They hitted fast and heavy. After a few months from the attack, Byzantium II got sieged and bombarded by a huge Vau fleet. The Hawkwood-blood Emperor and its court died in the attack.
 Year 5127 A.D., the Vau installed a human puppet Emperor, removing all the voting system created by Vlad.
